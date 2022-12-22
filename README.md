@@ -8,7 +8,7 @@ For Creating a ReactApp
 
 ### `RapidApi`
 
-to fetch the Apis for the Currencies data
+to fetch the Apis for the Crypto Currencies data
 
 ### `antd`
 
