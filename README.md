@@ -20,4 +20,4 @@ it's the best way to deal with charts
 
 ### `ReduxToolKit`
 
-as State management
+for State management
