@@ -8,7 +8,7 @@ For Creating a ReactApp
 
 ### `RapidApi`
 
-to fetch the Apis for the Crypto Currencies data
+to fetch the data for the Crypto Currencies and this is the link
 [https://rapidapi.com/Coinranking/api/coinranking1/]
 
 ### `antd`
