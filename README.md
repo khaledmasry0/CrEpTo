@@ -21,7 +21,3 @@ For Styling
 ### `Chartjs`
 
 it's the best way to deal with charts
-
-### `ReduxToolKit`
-
-for State management
