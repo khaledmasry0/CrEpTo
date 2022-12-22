@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CrEpTo/static/css/main.e627a4be.css",
+    "main.js": "/CrEpTo/static/js/main.ff78fecd.js",
+    "static/js/787.51fcf24e.chunk.js": "/CrEpTo/static/js/787.51fcf24e.chunk.js",
+    "index.html": "/CrEpTo/index.html",
+    "main.e627a4be.css.map": "/CrEpTo/static/css/main.e627a4be.css.map",
+    "main.ff78fecd.js.map": "/CrEpTo/static/js/main.ff78fecd.js.map",
+    "787.51fcf24e.chunk.js.map": "/CrEpTo/static/js/787.51fcf24e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e627a4be.css",
+    "static/js/main.ff78fecd.js"
+  ]
+}
