@@ -2,8 +2,6 @@
 
 ## I Used:
 
-In the project directory, you can run:
-
 ### `Reactjs`
 
 For Creating a ReactApp
