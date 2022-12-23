@@ -1,5 +1,10 @@
 <h1 align="center"> C r E p T o </h1>
 
+<h4 align="center"> C r E p T o is a project that enables you to follow cryptocurrency prices and news </h4>
+
+## What is Cryptocurrency ?
+Cryptocurrency, sometimes called crypto-currency or crypto, is any form of currency that exists digitally or virtually and uses cryptography to secure transactions. Cryptocurrencies don't have a central issuing or regulating authority, instead using a decentralized system to record transactions and issue new units.
+
 ## project Demo:
 https://khaledmasry0.github.io/CrEpTo/
 
@@ -7,7 +12,7 @@ https://khaledmasry0.github.io/CrEpTo/
 
 ### `Reactjs`
 
-For Creating a ReactApp
+For Creating a React project
 
 ### `RapidApi`
 
