@@ -1,4 +1,4 @@
-# CrEpTo
+<h1 align="center"> C r E p T o </h1>
 
 ## project Demo:
 https://khaledmasry0.github.io/CrEpTo/
