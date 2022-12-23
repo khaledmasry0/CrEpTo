@@ -1,9 +1,9 @@
-# in This Project
+# CrEpTo
 
 ## project Demo:
 https://khaledmasry0.github.io/CrEpTo/
 
-## I Used:
+##In this Project I Used:
 
 ### `Reactjs`
 
